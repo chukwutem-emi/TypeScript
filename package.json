@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- Basic Built-in Types\r - Object & Array Types\r - Function Types\r - Custom Types\r - Special Types",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukwutem-emi/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chukwutem-emi/TypeScript/issues"
+  },
+  "homepage": "https://github.com/chukwutem-emi/TypeScript#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}

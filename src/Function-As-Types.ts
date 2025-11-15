@@ -1,3 +1,5 @@
+
+
 function log2(message: string) {
     console.log(message);
 }

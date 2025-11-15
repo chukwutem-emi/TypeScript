@@ -1,1 +1,1 @@
-{"version":3,"file":"TypeScript-Project-Setup-Creating-A-TsConfig-Json-File.js","sourceRoot":"","sources":["../../The-TypeScript-Compiler-and-its-configuration/TypeScript-Project-Setup-Creating-A-TsConfig-Json-File.ts"],"names":[],"mappings":";AAAA,UAAU;AACV,mBAAmB;;AAEnB,+BAA+B"}
+{"version":3,"file":"TypeScript-Project-Setup-Creating-A-TsConfig-Json-File.js","sourceRoot":"","sources":["../../src/The-TypeScript-Compiler-and-its-configuration/TypeScript-Project-Setup-Creating-A-TsConfig-Json-File.ts"],"names":[],"mappings":";AAAA,UAAU;AACV,mBAAmB;;AAEnB,+BAA+B;AAC/B,8CAA8C"}

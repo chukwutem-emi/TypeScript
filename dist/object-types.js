@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let possibleResults;
-possibleResults = [1, -1];
+let possibleResults2;
+possibleResults2 = [1, -1];
 let user = {
     name: "max",
     age: 38,
