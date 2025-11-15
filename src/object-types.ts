@@ -1,6 +1,6 @@
-let possibleResults: [number, number];
+let possibleResults2: [number, number];
 
-possibleResults = [1, -1]
+possibleResults2 = [1, -1]
 
 let user: {
     name: string,
