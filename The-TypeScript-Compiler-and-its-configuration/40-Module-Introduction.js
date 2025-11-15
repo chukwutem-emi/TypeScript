@@ -1,5 +1,3 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let userName;
-userName = "Max";
-//# sourceMappingURL=basics.js.map
+//# sourceMappingURL=40-Module-Introduction.js.map

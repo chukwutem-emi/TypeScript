@@ -3,7 +3,7 @@ type Role2 = "admin" | "editor" | "guest" | "reader";
 type User = {
     name : string;
     age : number;
-    role : Role;
+    role : Role2;
     permissions: string[];
 }
 
